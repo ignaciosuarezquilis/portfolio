@@ -1,0 +1,82 @@
+/* Estilos para la sección de contacto */
+.contact-container {
+    padding: 40px;
+    background-color: #3F3F46;  /* Fondo claro */
+    text-align: center;
+  }
+  
+  .contact-title {
+    font-size: 2rem;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .contact-email {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .contact-icon {
+    font-size: 1.5rem;
+    margin-right: 10px;
+    color: #333;
+  }
+  
+  .contact-email-text {
+    font-size: 1.2rem;
+    color: #333;
+    margin-right: 10px;
+  }
+  
+  .copy-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #333;
+    font-size: 1.2rem;
+  }
+  
+  .copy-icon {
+    margin-left: 5px;
+  }
+  
+  .copy-success {
+    color: green;
+    margin-left: 10px;
+    font-size: 1rem;
+  }
+  
+  .contact-linkedin {
+    margin-bottom: 30px;
+  }
+  
+  .linkedin-icon {
+    font-size: 1.5rem;
+    margin-right: 10px;
+  }
+  
+  .contact-linkedin a {
+    text-decoration: none;
+    color: #0077b5;  /* LinkedIn blue */
+    font-size: 1.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .contact-linkedin a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Footer */
+  .footer {
+    font-size: 0.8rem;
+    color: #555;
+  }
+  
+  .footer p {
+    margin-top: 20px;
+  }
+  

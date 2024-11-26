@@ -1,0 +1,11 @@
+/* src/App.css */
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "San Francisco", "Segoe UI", Roboto, Helvetica, Arial, sans-serif; /* Cambia 'Roboto' por el nombre de tu fuente */
+  box-sizing: border-box;
+}
+
+h1 {
+  padding: 4rem 0; /* 20px arriba y abajo, 0 a los lados */
+}
+
